@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/weather-react/static/css/main.e343cf10.css",
-    "main.js": "/weather-react/static/js/main.ad4b671c.js",
+    "main.css": "/weather-react/static/css/main.c489823d.css",
+    "main.js": "/weather-react/static/js/main.509b11ed.js",
     "static/media/Poppins-Regular.woff2": "/weather-react/static/media/Poppins-Regular.5a6c15af2151cfa27e76.woff2",
     "static/media/Poppins-Light.woff2": "/weather-react/static/media/Poppins-Light.f7847222cbc0bdfca78d.woff2",
     "static/media/Poppins-SemiBold.woff2": "/weather-react/static/media/Poppins-SemiBold.810728e0001e1f7c0a71.woff2",
     "static/media/day.svg": "/weather-react/static/media/day.c33ef66438b2725bead5.svg",
+    "static/media/cloudy.svg": "/weather-react/static/media/cloudy.24f9a4741fe33f66bc0d.svg",
     "static/media/night.svg": "/weather-react/static/media/night.6cf4adcd3e5042b69048.svg",
     "static/media/snowy-3.svg": "/weather-react/static/media/snowy-3.b5422f54f9f554eb98f8.svg",
     "static/media/snowy-6.svg": "/weather-react/static/media/snowy-6.dce3f5e7e7d2c7e342ff.svg",
@@ -23,11 +24,11 @@
     "static/media/eye.svg": "/weather-react/static/media/eye.77370fdde8b2a85f2b64.svg",
     "static/media/heart.svg": "/weather-react/static/media/heart.a526dc5038e130890b02995090581b7b.svg",
     "index.html": "/weather-react/index.html",
-    "main.e343cf10.css.map": "/weather-react/static/css/main.e343cf10.css.map",
-    "main.ad4b671c.js.map": "/weather-react/static/js/main.ad4b671c.js.map"
+    "main.c489823d.css.map": "/weather-react/static/css/main.c489823d.css.map",
+    "main.509b11ed.js.map": "/weather-react/static/js/main.509b11ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.e343cf10.css",
-    "static/js/main.ad4b671c.js"
+    "static/css/main.c489823d.css",
+    "static/js/main.509b11ed.js"
   ]
 }
