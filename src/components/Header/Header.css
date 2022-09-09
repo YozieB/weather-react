@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  opacity: 0;
+  transition: .3s ease;
+}
+
+.header_loaded {
+  opacity: 1;
+}

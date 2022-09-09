@@ -1,0 +1,17 @@
+.page {
+  background-image: url(../images/bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Poppins', 'Arial', sans-serif;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}
+.container {
+  max-width: 880px;
+  padding: 0 20px;
+  margin: 0 auto;
+}

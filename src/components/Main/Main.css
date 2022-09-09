@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 115px;
+  padding-top: 90px;
+}
+
+@media(max-width: 450px) {
+  .main {
+    padding-bottom: 60px;
+  }
+}
