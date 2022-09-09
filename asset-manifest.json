@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/weather-react/static/css/main.e343cf10.css",
+    "main.js": "/weather-react/static/js/main.ad4b671c.js",
+    "static/media/Poppins-Regular.woff2": "/weather-react/static/media/Poppins-Regular.5a6c15af2151cfa27e76.woff2",
+    "static/media/Poppins-Light.woff2": "/weather-react/static/media/Poppins-Light.f7847222cbc0bdfca78d.woff2",
+    "static/media/Poppins-SemiBold.woff2": "/weather-react/static/media/Poppins-SemiBold.810728e0001e1f7c0a71.woff2",
+    "static/media/day.svg": "/weather-react/static/media/day.c33ef66438b2725bead5.svg",
+    "static/media/night.svg": "/weather-react/static/media/night.6cf4adcd3e5042b69048.svg",
+    "static/media/snowy-3.svg": "/weather-react/static/media/snowy-3.b5422f54f9f554eb98f8.svg",
+    "static/media/snowy-6.svg": "/weather-react/static/media/snowy-6.dce3f5e7e7d2c7e342ff.svg",
+    "static/media/thunder.svg": "/weather-react/static/media/thunder.19ff3c30164844769f3c.svg",
+    "static/media/cloudy-night-1.svg": "/weather-react/static/media/cloudy-night-1.4e6a9fdeed0f295b3dfb.svg",
+    "static/media/cloudy-day-1.svg": "/weather-react/static/media/cloudy-day-1.213f9a41fb1665620980.svg",
+    "static/media/rainy-3.svg": "/weather-react/static/media/rainy-3.8c33eccc717e097dc00a.svg",
+    "static/media/bg.svg": "/weather-react/static/media/bg.f0b7ffab0984886c0ead.svg",
+    "static/media/water.svg": "/weather-react/static/media/water.2723870c549f1458f462.svg",
+    "static/media/wind.svg": "/weather-react/static/media/wind.516b5c6b224a9bb7c655.svg",
+    "static/media/rainy-6.svg": "/weather-react/static/media/rainy-6.130d6250fca4e54ff49f.svg",
+    "static/media/rainy-4.svg": "/weather-react/static/media/rainy-4.9988edfd7ac66c28e664.svg",
+    "static/media/logo.svg": "/weather-react/static/media/logo.f5db5b60cfda72ea19cf8305c38e2aac.svg",
+    "static/media/temp.svg": "/weather-react/static/media/temp.02819f3772570b1494d5.svg",
+    "static/media/eye.svg": "/weather-react/static/media/eye.77370fdde8b2a85f2b64.svg",
+    "static/media/heart.svg": "/weather-react/static/media/heart.a526dc5038e130890b02995090581b7b.svg",
+    "index.html": "/weather-react/index.html",
+    "main.e343cf10.css.map": "/weather-react/static/css/main.e343cf10.css.map",
+    "main.ad4b671c.js.map": "/weather-react/static/js/main.ad4b671c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e343cf10.css",
+    "static/js/main.ad4b671c.js"
+  ]
+}
