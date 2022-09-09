@@ -104,6 +104,10 @@
   background-image: url(../../images/icons/rainy-4.svg);
 }
 
+.widget__img_fog {
+  background-image: url(../../images/icons/cloudy.svg);
+}
+
 .widget__temp {
   font-weight: 300;
   text-align: center;

@@ -70,6 +70,9 @@ function App() {
         case 'Drizzle':
           setImageClass('widget__img_drizzle')
           break
+        case 'Fog':
+          setImageClass('widget__img_fog')
+          break
         default:
           setImageClass('widget__img_clear_day')
       }
