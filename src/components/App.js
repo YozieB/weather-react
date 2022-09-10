@@ -19,7 +19,6 @@ function App() {
 
   useEffect(() => {
     api.getWeather().then(res => {
-      console.log(res)
       setCity(res.name)
       setTemp(Math.floor(res.main.temp))
       setDescr(

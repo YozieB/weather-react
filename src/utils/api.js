@@ -17,6 +17,9 @@ class Api {
     if (String(month).length < 2) {
       month = '0' + month
     }
+    if (String(dayNumber).length < 2) {
+      dayNumber = '0' + dayNumber
+    }
     let year = new Date().getFullYear()
     switch (new Date().getDay()) {
       case 0:
@@ -43,7 +46,7 @@ class Api {
       default:
         day = 'Не удалось получить значение'
     }
-    return `${day} 0${dayNumber}/${month}/${year}`
+    return `${day} ${dayNumber}/${month}/${year}`
   }
 
   async getWeather() {
